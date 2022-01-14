@@ -1,6 +1,6 @@
 function fizzBuzz (n) {
     // TODO: Compléter fizzbuzz()
-    let result = new String("");
+    let result = "";
     if (n%3==0) {
         result+="Fizz";
     }
