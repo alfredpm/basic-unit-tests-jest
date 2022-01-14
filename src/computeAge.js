@@ -16,3 +16,5 @@ function computeAge(birthday, currentDate){
     }
     return age;
 }
+
+module.exports = computeAge
