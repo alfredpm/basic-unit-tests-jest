@@ -1,5 +1,4 @@
 function fizzBuzz (n) {
-    // TODO: Compléter fizzbuzz()
     let result = "";
     if (n%3==0) {
         result+="Fizz";
